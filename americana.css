@@ -1,0 +1,45 @@
+#azul {
+    background-color: white;
+    height: 60px;
+}
+
+#amarelo {
+    background-color: red;
+    height: 100px;
+}
+
+#verde {
+    background-color: green;
+    height: 40px;
+}
+
+#vermelho {
+    background-color: red;
+    height: 40px;
+}
+#laranja {
+    background-color: orange;
+    height: 40px;
+}
+#carocel1 {
+    background-color: aqua;
+    height: 350px;
+}
+
+#carocel2 {
+    background-color: rgb(93, 0, 255);
+    height: 350px;
+}
+#carocel3 {
+    background-color: rgb(236, 16, 108);
+    height: 350px;
+}
+
+#carocel4 {
+    background-color: rgb(236, 185, 16);
+    height: 120px;
+}
+#verde1 {
+    background-color: green;
+    height: 40px;
+}
